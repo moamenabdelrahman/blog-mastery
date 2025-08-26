@@ -1,0 +1,18 @@
+.navbar .btn-outline-light:hover {
+    color: var(--bs-dark);
+}
+
+.header {
+    background-image: url(../images/header-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+
+.navbar {
+    transition: all 0.5s;
+}
+
+.navbar-sticky {
+    opacity: 0.9;
+}
